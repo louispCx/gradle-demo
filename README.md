@@ -3,4 +3,4 @@
 This is Checkmarx malicious demo project which contains some malicious denpendencies.
 Do not build and test this project.
 
-IT IS DANGEROUS!!!
+IT IS DANGEROUS TO USE THIS PROJECT ON YOUR ONBOARDING PROJECT !!!
